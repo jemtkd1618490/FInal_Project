@@ -8,7 +8,7 @@ In this final project I was tasked with conducting three different engagements:
 •	Blue Teaming the same machine by setting up alerts to capture logs for my offensive pentest
 •	Doing network analysis by utilizing Wireshark to monitor malicious traffic
 
-Listed here is: Offensive Engagement: https://docs.google.com/document/d/1EAndmSnUrH_EUVUz0jBhiEKxSyrk3icB/edit
+Offensive Engagement: https://docs.google.com/document/d/1EAndmSnUrH_EUVUz0jBhiEKxSyrk3icB/edit
 
 Blue-Team Engagement: https://docs.google.com/document/d/1UYLNN4Nf7cQD8NDjnSzcifsfp7Ozqt6e/edit
 
