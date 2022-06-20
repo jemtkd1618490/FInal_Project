@@ -4,9 +4,9 @@ This repository contains all the deliverables for my final project from the Univ
 
 In this final project I was tasked with conducting three different engagements:
 
-	- Hacking into a vulnerable machine to gather 4 flags
-	- Blue Teaming the same machine by setting up alerts to capture logs for my offensive pentest
-	- Doing network analysis by utilizing Wireshark to monitor malicious traffic
+ Hacking into a vulnerable machine to gather 4 flags
+ Blue Teaming the same machine by setting up alerts to capture logs for my offensive pentest
+ Doing network analysis by utilizing Wireshark to monitor malicious traffic
 
 Offensive Engagement: https://docs.google.com/document/d/1EAndmSnUrH_EUVUz0jBhiEKxSyrk3icB/edit
 
